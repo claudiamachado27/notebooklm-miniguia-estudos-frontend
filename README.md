@@ -1,4 +1,7 @@
-Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.**1\. Contexto e Objetivos**O assunto escolhido para este caderno é o **Desenvolvimento Front-End de Alta Qualidade**. O objetivo central é ir além da simples codificação de interfaces, buscando entender como aplicar princípios de engenharia de software — tradicionalmente discutidos no backend — para criar aplicações web que sejam **sustentáveis, performáticas e acessíveis**.**Objetivos de Estudo:**
+Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.**1\. Contexto e Objetivos**O assunto escolhido para este caderno é o **Desenvolvimento Front-End de Alta Qualidade**. 
+O objetivo central é ir além da simples codificação de interfaces, buscando entender como aplicar princípios de engenharia de software — tradicionalmente discutidos no backend — para criar aplicações web que sejam **sustentáveis, performáticas e acessíveis**.
+
+*1\. Objetivos de Estudo:**
 
 *   Dominar a criação de componentes limpos e modulares seguindo o **Single Responsibility Principle (SRP)**.
     
@@ -7,7 +10,8 @@ Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno
 *   Implementar técnicas de otimização de ativos (imagens e CSS) para garantir a melhor experiência do usuário.
     
 
-**2\. Curadoria de Fontes**Para este estudo, foram selecionadas quatro fontes fundamentais que equilibram teoria clássica e prática moderna:
+**2\. Curadoria de Fontes**
+Para este estudo, foram selecionadas quatro fontes fundamentais que equilibram teoria clássica e prática moderna:
 
 1.  **Boas Práticas em Programação Front-End (Willans Junes | DIO):** Uma introdução aos fundamentos de organização de pastas e semântica HTML.
     
@@ -18,7 +22,8 @@ Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno
 4.  **Clean Code (Robert C. Martin - PDF):** A "bíblia" do código limpo, utilizada para fundamentar os conceitos de nomenclatura e funções.
     
 
-**3\. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)**Abaixo, registro a evolução da interação com a IA para extrair os melhores insights:
+**3\. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)**
+Abaixo, registro a evolução da interação com a IA para extrair os melhores insights:
 
 *   **Prompt 1 (Generalista):** _"Quais as melhores práticas de front-end?"_
     
