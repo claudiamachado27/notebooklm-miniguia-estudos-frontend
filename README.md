@@ -1,3 +1,6 @@
+![Imagem capa](imagem capa.png)
+
+
 Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.
 
 **1\. Contexto e Objetivos**
