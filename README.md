@@ -1,4 +1,7 @@
-Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.**1\. Contexto e Objetivos**O assunto escolhido para este caderno é o **Desenvolvimento Front-End de Alta Qualidade**. 
+Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.
+
+**1\. Contexto e Objetivos**
+O assunto escolhido para este caderno é o **Desenvolvimento Front-End de Alta Qualidade**. 
 O objetivo central é ir além da simples codificação de interfaces, buscando entender como aplicar princípios de engenharia de software — tradicionalmente discutidos no backend — para criar aplicações web que sejam **sustentáveis, performáticas e acessíveis**.
 
 *1\. Objetivos de Estudo:**
