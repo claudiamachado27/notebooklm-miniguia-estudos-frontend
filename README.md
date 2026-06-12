@@ -1,4 +1,4 @@
-![Imagem capa](imagem capa.png)
+![Imagem capa](https://github.com/claudiamachado27/notebooklm-miniguia-estudos-frontend/blob/main/imagem%20capa.png?raw=true)
 
 
 Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.
