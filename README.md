@@ -1,5 +1,5 @@
 
-<img src="[https://exemplo.com/logo.png](https://github.com/claudiamachado27/notebooklm-miniguia-estudos-frontend/blob/main/imagem%20capa.png?raw=true)" alt="Imagem capa">
+![Imagem capa](imagem%20capa.png)
 
 
 Este documento consolida o aprendizado sobre o desenvolvimento front-end moderno, integrando princípios de **Clean Code** e estratégias de alta performance.
